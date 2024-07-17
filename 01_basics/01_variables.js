@@ -7,7 +7,7 @@ var accountPasskey = "12345";
 
 
 accountEmail = "aryan@mail.com";
-accountPasskey = "88988";
+accountPasskeys = "88988";
 
 
-console.table([ accountEmail , accountPasskey  , accountId]);
+console.table([ accountEmail , accountPasskeys  , accountId]);
